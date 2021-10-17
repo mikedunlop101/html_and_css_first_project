@@ -1,5 +1,5 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
+Hi Im michael dunlop and i am doing the full stack web developer course. Im begining to think coming on the course was a mistake, as i am struggling to keep up and am spending to many hours doing it. I really wanted to learn how to code because i would love to have the skill base where i could work from home and earn good money. But im begining to think ive taken on more than i can handle. im just not intelligent enough, though i will continue to try and get my project out in time for 30/11/21
 Welcome USER_NAME,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
